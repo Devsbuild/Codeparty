@@ -89,6 +89,7 @@ body {
 
 .useravatar-container {
   text-align: center;
+  position: center;
 }
 
 .intro h3,
