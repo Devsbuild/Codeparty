@@ -90,6 +90,7 @@ body {
 .useravatar-container {
   text-align: center;
   position: right;
+  margin-left: 500px;
 }
 
 .intro h3,
